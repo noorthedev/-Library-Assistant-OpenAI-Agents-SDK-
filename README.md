@@ -17,22 +17,7 @@ Python 3.9+
 OpenAI Python SDK with Agents support
 An OpenAI API Key
 
-# 📦 Installation
-
-Clone this repository:
-
-git clone https://github.com/your-username/library-assistant.git
-cd library-assistant
-
-
-Create and activate a virtual environment (recommended):
-
-python -m venv venv
-venv\Scripts\activate     # Windows
-source venv/bin/activate  # Linux/Mac
-
-
-Install dependencies:
+# Install dependencies:
 
 pip install openai
 
@@ -90,3 +75,4 @@ I welcome contributions! Feel free to submit issues or pull requests.
 
 # ⭐ Star this repository if you find it inspiring!
 Happy coding!
+
